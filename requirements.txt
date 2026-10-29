@@ -1,0 +1,6 @@
+# Core Application Dependencies
+# The application runs on standard Python 3.10+ (tkinter, sqlite3, xml.etree, zipfile).
+# No external runtime libraries are required!
+
+# Build / Packaging Dependency (optional, only needed for compiling to standalone Windows .exe)
+pyinstaller>=6.0.0
